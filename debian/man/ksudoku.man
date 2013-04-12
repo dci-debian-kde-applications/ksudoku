@@ -1,0 +1,20 @@
+.TH KSUDOKU 6
+.SH NAME
+ksudoku \- KDE Sudoku games
+.SH SYNOPSIS
+.B ksudoku
+.I [Qt-options] [KDE-options] [url]
+.SH DESCRIPTION
+.B KSudoku
+is a Sudoku game and solver, supporting a range of 2D and 3D Sudoku
+variants.  In addition to playing Sudoku, it can print Sudoku puzzle sheets
+and find the solution to any Sudoku puzzle.
+.TP
+.B url
+Document to open.
+.so kdeopt.part
+.SH SEE ALSO
+More detailed user documentation is available from
+.BR help:/ksudoku
+(either enter this URL into \fBkonqueror\fP, or run `khelpcenter
+help:/ksudoku').

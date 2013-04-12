@@ -1,0 +1,32 @@
+Source: ksudoku
+Section: games
+Priority: optional
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Daniel Schepler <schepler@debian.org>,
+ Sune Vuorela <sune@debian.org>,
+ Fathi Boudra <fabo@debian.org>,
+ Modestas Vainius <modax@debian.org>,
+ George Kiagiadakis <gkiagiad@csd.uoc.gr>,
+ Eshat Cakar <info@eshat.de>,
+ Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
+ Maximiliano Curia <maxy@debian.org>
+Build-Depends: kde-sc-dev-latest (>= 4:4.10.2),
+ cmake, debhelper (>= 9), pkg-kde-tools (>= 0.14),
+ kdelibs5-dev (>= 4:4.10),
+ libkdegames-dev (>= 4:4.10)
+Standards-Version: 3.9.4
+Homepage: http://games.kde.org/
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/ksudoku.git
+Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/ksudoku.git
+
+Package: ksudoku
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: khelpcenter4
+Description: Sudoku puzzle game and solver
+ KSudoku is a Sudoku game and solver, supporting a range of 2D and 3D Sudoku
+ variants.  In addition to playing Sudoku, it can print Sudoku puzzle sheets
+ and find the solution to any Sudoku puzzle.
+ .
+ This package is part of the KDE games module.
+
