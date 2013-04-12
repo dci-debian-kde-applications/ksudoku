@@ -1,3 +1,8 @@
+ksudoku (4:4.10.2-2) UNRELEASED; urgency=low
+
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 12 Apr 2013 13:21:53 +0200
+
 ksudoku (4:4.10.2-1) experimental; urgency=low
 
   * First release of kdegames after being split by upstream.
