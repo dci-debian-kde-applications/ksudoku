@@ -16,7 +16,7 @@ Build-Depends: kde-sc-dev-latest (>= 4:4.11),
  libkdegames-dev (>= 4:4.11),
  libqt4-opengl-dev,
  libgl1-mesa-dev | libgl-dev,
-Standards-Version: 3.9.4
+Standards-Version: 3.9.5
 Homepage: http://games.kde.org/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/ksudoku.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/ksudoku.git
