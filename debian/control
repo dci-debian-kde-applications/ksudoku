@@ -16,7 +16,7 @@ Build-Depends: cmake,
                kdelibs5-dev,
                libgl1-mesa-dev [!armhf] | libgl-dev [!armhf],
                libglu1-mesa-dev [!armhf],
-               libkdegames-dev (>= 4:14.12.0),
+               libkdegames-dev (>= 4:14.12.2),
                libqt4-opengl-dev [!armhf],
                pkg-kde-tools (>= 0.14)
 Standards-Version: 3.9.5
