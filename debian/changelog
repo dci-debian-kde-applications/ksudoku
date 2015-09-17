@@ -1,9 +1,10 @@
-ksudoku (4:15.08.0-1~) UNRELEASED; urgency=medium
+ksudoku (4:15.08.1-1~) UNRELEASED; urgency=medium
 
   * New upstream release (15.04.2).
   * New upstream release (15.08.0).
+  * New upstream release (15.08.1).
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 10 Sep 2015 09:36:07 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 17 Sep 2015 20:01:43 +0200
 
 ksudoku (4:14.12.2-1) experimental; urgency=medium
 
