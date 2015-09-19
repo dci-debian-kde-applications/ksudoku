@@ -3,6 +3,7 @@ ksudoku (4:15.08.1-1~) UNRELEASED; urgency=medium
   * New upstream release (15.04.2).
   * New upstream release (15.08.0).
   * New upstream release (15.08.1).
+  * Update install files.
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 17 Sep 2015 20:01:43 +0200
 
