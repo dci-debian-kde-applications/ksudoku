@@ -1,9 +1,10 @@
-ksudoku (4:15.08.1-0ubuntu1) UNRELEASED; urgency=medium
+ksudoku (4:15.08.2-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
   * Vivid backport
+  * Vivid backport
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 01 Oct 2015 11:25:58 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Sat, 17 Oct 2015 10:33:15 -0700
 
 ksudoku (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
