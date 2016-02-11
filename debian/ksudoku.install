@@ -1,5 +1,3 @@
-../icons/ksudoku-16.xpm /usr/share/pixmaps
-../icons/ksudoku.xpm /usr/share/pixmaps
 usr/games/ksudoku
 usr/share/appdata/ksudoku.appdata.xml
 usr/share/applications/kde4/ksudoku.desktop
