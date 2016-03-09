@@ -1,9 +1,9 @@
-ksudoku (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
+ksudoku (4:15.12.1-1ubuntu1) xenial; urgency=medium
 
   * Merged with Debian
   * New upstream release 
 
- -- Clive Johnston <clivejo@aol.com>  Tue, 09 Feb 2016 16:29:12 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 11:13:32 +0100
 
 ksudoku (4:15.12.1-1) experimental; urgency=medium
 
