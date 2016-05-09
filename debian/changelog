@@ -1,10 +1,19 @@
-ksudoku (4:15.12.3-1~1.gbp45915f) UNRELEASED; urgency=medium
+ksudoku (4:15.12.3-1~2.gbpa4a9a6) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @a4a9a6c6fc85f34e511dd41c33747a00ac4fb3f7 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @45915f40f6005ad34c9be4768675cdcfc8b945c2 **
 
   * Bump Standards-Version to 3.9.8
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:45:08 +0200
+  [ Maximiliano Curia ]
+  * Remove menu file and friends
+  * New upstream release (15.12.2).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:44:18 +0200
 
 ksudoku (4:15.12.1-1) experimental; urgency=medium
 
