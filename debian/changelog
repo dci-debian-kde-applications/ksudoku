@@ -1,8 +1,10 @@
-ksudoku (4:15.12.2-1~) UNRELEASED; urgency=medium
+ksudoku (4:15.12.3-1~1.gbp45915f) UNRELEASED; urgency=medium
 
-  * New upstream release (15.12.2).
+  ** SNAPSHOT build @45915f40f6005ad34c9be4768675cdcfc8b945c2 **
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 10:07:47 +0100
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:45:08 +0200
 
 ksudoku (4:15.12.1-1) experimental; urgency=medium
 

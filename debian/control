@@ -19,7 +19,7 @@ Build-Depends: cmake,
                libkdegames-dev (>= 4:14.12.2),
                libqt4-opengl-dev [!armhf],
                pkg-kde-tools (>= 0.14)
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Homepage: http://games.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/ksudoku.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/ksudoku.git
