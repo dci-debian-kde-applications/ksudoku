@@ -2,6 +2,9 @@ ksudoku (4:16.08.0-0r1) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
   * New upstream release.
+  * Stop forcing the local installation to debian/tmp, letting the package
+    directory as install place.
+    - remove ksudoku.install, no more used now
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 25 Aug 2016 06:42:49 +0200
 
