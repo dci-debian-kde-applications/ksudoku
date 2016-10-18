@@ -1,10 +1,8 @@
-ksudoku (4:16.08.2-1~1.gbp8db1ca) UNRELEASED; urgency=medium
+ksudoku (4:16.08.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @8db1ca86b675239765ccb4bb650c3b91f62cd45d **
+  * New upstream release (16.08.2)
 
-  * UNRELEASED
-
- -- Pino Toscano <jenkins@gnuservers.com.ar>  Fri, 14 Oct 2016 00:44:28 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 00:00:34 +0200
 
 ksudoku (4:16.08.0-1) unstable; urgency=medium
 
