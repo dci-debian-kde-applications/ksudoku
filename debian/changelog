@@ -1,3 +1,9 @@
+ksudoku (4:17.08.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 23 Aug 2017 10:47:51 +0000
+
 ksudoku (4:16.08.2-1) unstable; urgency=medium
 
   * New upstream release (16.08.2)
